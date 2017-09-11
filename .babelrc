@@ -1,0 +1,10 @@
+{
+  "sourceMaps": true,
+  "presets": [
+    "next/babel"
+  ],
+  "plugins": [
+    "transform-decorators-legacy",
+    "transform-function-bind"
+  ]
+}
