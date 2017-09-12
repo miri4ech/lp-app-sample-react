@@ -10,7 +10,7 @@ This is a React project / a simple landing page for small service
 ### Installing
 
 ```bash
-$ yarn install
+$ yarn
 ```
 
 ## Running the project
