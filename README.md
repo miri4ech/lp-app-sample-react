@@ -19,4 +19,4 @@ $ yarn
 $ yarn dev
 ```
 
-You can see the site locally. []()  
+You can see the site locally. [http://localhost:4100/](http://localhost:4100/)  
